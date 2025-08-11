@@ -1,4 +1,4 @@
-# Assignment 2, Part 2: Micro-GPT
+# Micro-GPT
 
 This folder contains the template code for implementing your own GPT2 model. We will train the model to predict the next characters. The code is structured in the following way:
 
